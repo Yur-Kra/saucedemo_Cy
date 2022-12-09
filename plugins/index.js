@@ -1,0 +1,14 @@
+//package for perfomanse test pages via cy.lighthouse(); command
+
+/* const { lighthouse, prepareAudit } = require('@cypress-audit/lighthouse')
+  
+  module.exports = (on, config) => {
+      on('before:browser:launch', (browser = {}, launchOptions) => {
+        prepareAudit(launchOptions)
+      })
+      
+          on('task', {
+              lighthouse: lighthouse(),
+          })
+        
+  } */
